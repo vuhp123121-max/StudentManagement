@@ -1,3 +1,5 @@
 # Student ManageMent System
 
-Version: 2.0
+
+VERSION 2.0
+
